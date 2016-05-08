@@ -1,5 +1,5 @@
 #**Code Book**
-This code book summarizes the data fields in `FinalData.txt.`
+This Code Book summarizes the data fields in `FinalData.txt.`
 
 ##Identifiers
 * `subject` - The test subject ID.
